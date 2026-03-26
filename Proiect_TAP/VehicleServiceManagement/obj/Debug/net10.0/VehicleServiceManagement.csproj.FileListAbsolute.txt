@@ -1,0 +1,14 @@
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/bin/Debug/net10.0/VehicleServiceManagement
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/bin/Debug/net10.0/VehicleServiceManagement.deps.json
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/bin/Debug/net10.0/VehicleServiceManagement.runtimeconfig.json
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/bin/Debug/net10.0/VehicleServiceManagement.dll
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/bin/Debug/net10.0/VehicleServiceManagement.pdb
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.AssemblyInfoInputs.cache
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.AssemblyInfo.cs
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.csproj.CoreCompileInputs.cache
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.dll
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/refint/VehicleServiceManagement.dll
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.pdb
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/VehicleServiceManagement.genruntimeconfig.cache
+/Users/arabela/Proiect_TAP/VehicleServiceManagement/obj/Debug/net10.0/ref/VehicleServiceManagement.dll
